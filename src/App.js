@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import TestingTextbox from './TestingTextbox';
+import CmdTextBox from './CmdTextBox';
 
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <TestingTextbox/>
+      <CmdTextBox/>
     </div>
   );
 }
